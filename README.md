@@ -6,14 +6,23 @@ PEG-programming educationg gatheringプロジェクトの公式SDカード内の
 使い方
 -----
 １．以下のリンクからscratchjpime.tar.gzをダウンロードします。
+
 http://goo.gl/jzFP9J
+
 ２．上記ファイルをUSBメモリに入れます（展開しません）。
+
 ３．Raspberry PiをSDカードからブートします。
+
 ４．２のUSBメモリをRaspberry Piに接続します。
+
 ５．/home/piに上記ファイルをコピーします。
+
 ６．tar zxvf scratchjpime.tar.gz で展開します。
+
 ７．cd scratchjpime
+
 ８．sudo ./setupscratchjpime.sh
+
 ９．日本語入力できるか確認します。
 
 注意点
