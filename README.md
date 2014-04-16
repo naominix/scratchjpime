@@ -28,3 +28,6 @@ http://goo.gl/jzFP9J
 注意点
 -----
 NanoBoardAG用のスクリプトは通常のScratch起動とは異なるため、念のため個別に確認を行ってください。
+
+強制的に上書きする場合はowsetupscratchjpime.shを使用します。
+
