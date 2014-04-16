@@ -3,7 +3,7 @@ if [ `whoami` != root ]; then
 	echo Please run this script as root or using sudo
 	exit
 fi
-echo Start enabling Scratch on Japanese IME
+echo Start enabling Japanese IME on Scratch 
 #echo Downloading...
 #wget -O so.vm-display-X11.gz http://t.co/4HrdxkuAea
 #wget -O scratch.japaneseime http://goo.gl/8DH7ly
