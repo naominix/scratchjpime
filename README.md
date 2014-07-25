@@ -37,3 +37,11 @@ MacにMacFUSEをインストール済みでSDカードをmountできる場合は
 
 Raspbianを直接インストールしたSDカードでボリューム名がUntitledのものはmacfuse_raspbian_ow_setup_scratch_jp_ime.shを利用します。ボリューム名が異なっている場合は適宜スクリプトを書き換えてから実行してください。
 
+
+## Special Thanks
+
+はちすか (@hachisuka_jp)さんの以下の貢献により実現されたものです。
+
+Linux版Scratch1.4で日本語入力
+http://www.asu.ac.jp/hachi/v3/scratch14ime.html
+
