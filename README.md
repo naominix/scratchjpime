@@ -17,7 +17,7 @@ http://goo.gl/jzFP9J
 
 ５．/home/piに上記ファイルをコピーします。
 
-６．tar zxvf scratchjpime.tar.gz で展開します。
+６．Lxterminalを開いて tar zxvf scratchjpime.tar.gz というコマンドを入力して展開します。
 
 ７．cd scratchjpime
 
