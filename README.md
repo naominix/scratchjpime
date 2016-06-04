@@ -5,7 +5,7 @@ PEG-programming education gatheringプロジェクトの公式SDカード内のS
 
 ※※※注意※※※
 
-本スクリプトは現在のRaspbian JessieにバンドルされているScratchには適用できませんのでご注意ください。
+本スクリプトは現在のRaspbian JessieにバンドルされているScratch（NuScratch）には適用できませんのでご注意ください。
 
 使い方
 -----
