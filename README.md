@@ -3,6 +3,9 @@ scratchjpime
 PEG-programming education gatheringプロジェクトの公式SDカード内のScratchを日本語入力に対応させるためのシェルスクリプトです。
 手作業でやると面倒なので単純に手続きを書いただけの単純なものです。
 
+※※※注意※※※
+本スクリプトは現在のRaspbian JessieにバンドルされているScratchには適用できませんのでご注意ください。
+
 使い方
 -----
 １．以下のリンクからscratchjpime.tar.gzをダウンロードします。
